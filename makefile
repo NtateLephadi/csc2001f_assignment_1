@@ -1,6 +1,6 @@
 # Makefile for Data Structures Binary Search Tree Assignments
 
-LIB = ../lib
+LIB = lib
 SRCDIR = src
 BINDIR = bin
 TESTDIR = test
